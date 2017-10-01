@@ -4,10 +4,10 @@ A Qt5 based GUI app for searching multiple queries (adding and removing), while 
 
 ## Dependancies
 
-Python 3.x
-PyQt5
-Numpy
-Scipy
+* Python 3.x
+* PyQt5
+* Numpy
+* Scipy
 
 ## Usage
 
