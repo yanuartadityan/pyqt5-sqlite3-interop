@@ -13,8 +13,8 @@ A Qt5 based GUI app for searching multiple queries (adding and removing), while 
 
 Simple usage is expected:
 
-'''python
+```python
 python adas.py
-'''
+```
 
 The queries are based on the available schemas in the database. For now is statically typed and in the future will be dynamically generated automatically.
